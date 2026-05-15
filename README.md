@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy JHayro 👋</h1>
 
 <h3 align="center">
-Ingeniero de Software | Sysadmin Linux | Backend, DevOps & AI Workflows
+Sysadmin Linux | Developer Web, DevOps & AI Workflows
 </h3>
 
 <p align="center">
