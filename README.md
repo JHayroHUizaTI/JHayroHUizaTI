@@ -24,7 +24,7 @@ Construyo soluciones backend, automatizaciones inteligentes e infraestructura Li
 
 ## Sobre mí
 
-Soy **Ingeniero de Software y Sysadmin Linux**, enfocado en el desarrollo de soluciones backend, automatización de procesos, despliegue de aplicaciones web e integración de herramientas de IA aplicada.
+Soy **Sysadmin Linux | developer Web | GenIA**, enfocado en el desarrollo de soluciones backend, automatización de procesos, despliegue de aplicaciones web e integración de herramientas de IA aplicada.
 
 Trabajo en la intersección entre **software, infraestructura y automatización**, construyendo sistemas que conectan APIs, flujos operativos, servicios web, agentes inteligentes y entornos Linux listos para producción.
 
