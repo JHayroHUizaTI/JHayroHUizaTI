@@ -92,18 +92,6 @@ Estoy abierto a colaborar en proyectos relacionados con:
 - Integraciones con IA.
 - Prototipos técnicos para productos digitales.
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JHayroHUizaTI&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHayroHUizaTI&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JHayroHUizaTI&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
 ---
 
 ### 📫 Contáctame
