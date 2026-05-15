@@ -76,44 +76,6 @@ Actualmente estoy explorando soluciones relacionadas con **factorías de softwar
 
 ---
 
-## Proyectos actuales
-
-<!-- Reemplaza estos nombres por repositorios reales cuando los tengas publicados -->
-
-### `[nombre_del_proyecto_1]` — Backend Automation Platform
-Sistema backend para orquestar procesos, integrar APIs externas y automatizar operaciones técnicas.
-
-**Stack sugerido:** Python · Docker · PostgreSQL · GitHub Actions
-
----
-
-### `[nombre_del_proyecto_2]` — WhatsApp Workflow Integrations
-Integraciones para conectar formularios, CRMs, WhatsApp y flujos internos usando automatización.
-
-**Stack sugerido:** n8n · Webhooks · APIs REST · Docker
-
----
-
-### `[nombre_del_proyecto_3]` — RAG Assistant / AI Agent
-Prototipo de asistente basado en recuperación de información, embeddings y generación aumentada por contexto.
-
-**Stack sugerido:** Python · RAG · Vector DB · GenAI
-
----
-
-### `[nombre_del_proyecto_4]` — Linux DevOps Lab
-Repositorio técnico para documentar configuraciones Linux, hardening básico, scripts y despliegues.
-
-**Stack sugerido:** Linux · Bash · Docker · GitHub Actions
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JHayroHUizaTI&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHayroHUizaTI&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <!-- Nota: si las estadísticas no cargan, revisa la disponibilidad del servicio externo github-readme-stats. -->
 
