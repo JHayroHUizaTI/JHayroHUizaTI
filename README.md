@@ -99,7 +99,7 @@ Estoy abierto a colaborar en proyectos relacionados con:
 - 🌐 GitHub: [@JHayroHUizaTI](https://github.com/JHayroHUizaTI)
 - 💼 LinkedIn: https://www.linkedin.com/in/jhuizaanccasi/
 - ✉️ Email: jhayro.huiza@tecsup.edu.pe
-- 🌎 Portafolio: https://jrhuiza-github-io.vercel.app/
+- 🌎 Portafolio: https://jrhuiza.vercel.app/
 
 ---
 
